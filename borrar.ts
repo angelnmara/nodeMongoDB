@@ -3,7 +3,7 @@
 import { MongoClient } from "mongodb";
 
 // Replace the uri string with your MongoDB deployment's connection string
-const uri = "mongodb+srv://angelnmara:sD7mLAZ0Bi0P0LPK@cluster0.0913r1x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://angelnmara:xxxxx@cluster0.0913r1x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const client = new MongoClient(uri);
 
